@@ -1,0 +1,20 @@
+[
+{
+"op": "add",
+"path": "/hail/silurian",
+"value": {
+"default": [
+"I got my eyes on you.",
+"Keep walking.",
+"Check yourself.",
+"Move along."
+],
+"silurian": [
+"Hello.",
+"Look after yourself my friend.",
+"Good to see a fellow silurian.",
+"Hello."
+]
+}
+}
+]

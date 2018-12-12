@@ -1,0 +1,22 @@
+{
+  "itemName" : "lore_novakidaugment",
+  "price" : 20000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "lightaugment.png",
+  "description" : "A Novakid EPP module that emit an extremely strong light and also generates a little bit of energy.",
+  "shortdescription" : "Novakid Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lore_novaglow",
+    "displayName" : "Novakid Light",
+    "displayIcon" : "/items/augments/back/lightaugment.png",
+    "effects" : [ "lore_novakidlight", "maxenergyboostaugment1" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

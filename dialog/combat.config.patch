@@ -1,0 +1,32 @@
+[
+{
+"op": "add",
+"path": "/attack/silurian",
+"value": {
+"default": [
+"ROAR!",
+"GROWL!",
+"CHARGE!"
+]
+}
+},
+{
+"op": "add",
+"path": "/killedTarget/silurian",
+"value": {
+"default": [
+"Bleeders are pathetic",
+"It has been done."
+]
+}
+},
+{
+"op": "add",
+"path": "/lostTarget/silurian",
+"value": {
+"default": [
+"Hello?"
+]
+}
+}
+]

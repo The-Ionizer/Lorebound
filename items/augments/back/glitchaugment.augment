@@ -1,0 +1,22 @@
+{
+  "itemName" : "lore_glitchaugment",
+  "price" : 20000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "energyaugment.png",
+  "description" : "The Glitch have developed this battery module for EPPs to increase their energy reserves.",
+  "shortdescription" : "Glitch Battery",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lore_glitchenergy",
+    "displayName" : "Glitch Energy",
+    "displayIcon" : "/items/augments/back/energyaugment.png",
+    "effects" : [ "lore_glitchenergyboost" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

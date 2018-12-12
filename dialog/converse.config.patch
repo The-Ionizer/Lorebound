@@ -1,0 +1,195 @@
+[
+{
+"op": "add",
+"path": "/greeting/silurian",
+"value": {
+"default" : [
+"Heya",
+"Howdy",
+"Heya! I am <selfname>",
+"How are you my friend?"
+],
+"avian" : [
+"Heya",
+"Howdy",
+"Hiya my feathered friend",
+"Heya! I am <selfname>",
+"Howdy Howdy Howdy."
+],
+"floran" : [
+"Heya",
+"Howdy",
+"Hiya my leafy friend",
+"Heya! I am <selfname>",
+"Howdy Howdy Howdy."
+],
+"human" : [
+"...",
+"Hi.",
+"Hello."
+],
+"hylotl" : [
+"Heya",
+"Howdy",
+"Hiya my fishy friend",
+"Heya! I am <selfname>",
+"Howdy Howdy Howdy."
+],
+"novakid" : [
+"Heya",
+"Howdy",
+"Hiya glowing being.",
+"Heya! I am <selfname>",
+"Howdy Howdy Howdy."
+],
+"silurian" : [
+"Heya",
+"Howdy",
+"Hiya Furball",
+"Heya! I am <selfname>",
+"Howdy Howdy Howdy."
+]
+}
+},
+{
+"op": "add",
+"path": "/converse/silurian",
+"value": {
+"default" : [
+"Howdy Howdy Howdy",
+"We don't get too many visitors out here.",
+"Why are you here?"
+],
+"apex" : [
+"You seem to be related to Humans, I do not like that.",
+"Are you going to throw barrels at me?",
+"Yes you do smell."
+],
+"avian" : [
+"There are rabbit items in your tombs, why is that?",
+"Your beak is too close to my face.",
+"You don't eat meat do you?"
+],
+"floran" : [
+"Does your plant matter feel pain?",
+"I find your rustling soothing.",
+"Do you turn orange in the Autumn months."
+],
+"human" : [
+"Don't talk to me",
+"People like you, litter our world",
+"Go fluff yourself"
+],
+"hylotl" : [
+"You look slimy.",
+"Are you thirsty?",
+"What brings you to the land?"
+],
+"novakid" : [
+"Your glow pleases me.",
+"How do you see?",
+"Where do you come from?"
+],
+"silurian" : [
+"Hello fellow silurian, I am glad to see you.",
+"What's up Buddy?",
+"It's great to see another silurian doing so well.",
+"Welcome!"
+
+]
+}
+},
+{
+"op": "add",
+"path": "/converse/apex/silurian",
+"value": [
+"Do I smell? Please let me know if I do.",
+"I may be related to Humans, but please don't lump us with them.",
+"I take offence to being called Kong.",
+"Good day to you, my silurian friend.",
+"Don't sneak too much, cat. Miniknog is watching.",
+"Your freedom fills me with joy, friend",
+"My fur is in terrible shape, how do I make it look nice like yours?"
+]
+},
+{
+"op": "add",
+"path": "/converse/avian/silurian",
+"value": [
+"In all the books in our libraries, I have never read about your race.",
+"I wish I could fly.",
+"It's okay, I only eat seeds.",
+"You look so lovely and fluffy.",
+"I don't know about the rabbit items in our tombs.",
+"Coo Coo",
+"I wish Avians were descended from rabbits, not birds"
+]
+},
+{
+"op": "add",
+"path": "/converse/floran/silurian",
+"value": [
+"Floran greets stranger.",
+"Have nice day.",
+"Hello, fuzzy sstranger.",
+"How is sstranger person?",
+"Sssup new friend?",
+"Nice meeting you.",
+"Floran happy we met.",
+"Can Floran help you?",
+"Is sstranger ok?",
+"Welcome."
+]
+},
+{
+"op": "add",
+"path": "/converse/glitch/silurian",
+"value": [
+"Eager. Salutations.",
+"Welcoming. I will always welcome new friends!",
+"Friendly. It is wonderful to meet you.",
+"Excited. Yay! A new fuzzy friend!",
+"Cordial. Hello my fine fuzzy fellow.",
+"Surly. Hi...",
+"Merry. Welcome, welcome, welcome!"
+]
+},
+{
+"op": "add",
+"path": "/converse/human/silurian",
+"value": [
+"Don't hurt me please.",
+"I feel like it was mostly a huge misunderstanding.",
+"You know, I actually was on your side.",
+"You're so fluffy!",
+"I'm sorry for my people.",
+"We should have finished you off.",
+"Do you eat a lot of carrots?",
+"..."
+]
+},
+{
+"op": "add",
+"path": "/converse/hylotl/silurian",
+"value": [
+"I got my 3 eyes on you.",
+"Well to me, you smell funny.",
+"You are overly fuzzy.",
+"Your ears are a work of art.",
+"We don't have to stay underwater like most people think.",
+"Do you produce art?",
+"Why do you hate the Human anyway?",
+"We are praised for our architecture."
+]
+},
+{
+"op": "add",
+"path": "/converse/novakidsilurian",
+"value": [
+"Howdy Howdy Howdy",
+"This town ain't big enough for the both of us.",
+"Howdy my fuzzy lil' partner.",
+"I can tell y'all aren't from around here."
+]
+}
+]

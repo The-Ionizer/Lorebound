@@ -1,0 +1,28 @@
+[
+{
+"op": "add",
+"path": "/beacon/silurian",
+"value": {
+"default": [
+"I'm Back!",
+"Hello hello.",
+"Can I help you?"
+],
+"silurian": [
+"Home sweet home.",
+"Hello my friend.",
+"Hows it going?"
+]
+}
+},
+{
+"op": "add",
+"path": "/rent/silurian",
+"value": {
+"default": [
+"A little from me to you.",
+"I am happy to help."
+]
+}
+}
+]

@@ -1,0 +1,50 @@
+[
+{
+"op": "add",
+"path": "/tagCriteria/silurian",
+"value": {
+"default": [
+"Things have changed, and I do not care for it."
+]
+}
+},
+{
+"op": "add",
+"path": "/enclosedArea/silurian",
+"value": {
+"default": [
+"This is not how I wanted this, fix it."
+]
+}
+},
+{
+"op": "add",
+"path": "/otherDeed/silurian",
+"value": {
+"default": [
+"GROWL",
+"ROAR!"
+]
+}
+},
+{
+"op": "add",
+"path": "/severe/silurian",
+"value": {
+"default": [
+"ROAR!",
+"You can fix this, or fight me."
+]
+}
+},
+{
+"op": "add",
+"path": "/final/silurian",
+"value": {
+"default": [
+"THAT'S IT! I'm out!",
+"Nobody got time for this."
+]
+}
+}
+]

@@ -1,0 +1,13 @@
+{
+	"id" : "siluriandiary2",
+	"title" : "Robobots",
+	"description" : "Not completed",
+	"icon" : "siluriancover1.png",
+	"contentPages" : [
+    "We have been robbed, robbed of our robots. Robobots. The humans, the primitive apes have stolen it and turned them into glithes"
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

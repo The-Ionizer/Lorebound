@@ -1,0 +1,14 @@
+[
+{
+"op": "add",
+"path": "/converse/silurian",
+"value": {
+"default": [
+"I look so amazing in this uniform.",
+"Howdy.",
+"Seen any good leathers lately? I'm asking for a friend."
+
+]
+}
+}
+]

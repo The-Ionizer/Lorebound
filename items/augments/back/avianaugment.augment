@@ -1,0 +1,22 @@
+{
+  "itemName" : "lore_avianaugment",
+  "price" : 20000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "jumpaugment.png",
+  "description" : "An Avian EPP module that increases jump height.",
+  "shortdescription" : "Avian Wings",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lore_avianjump",
+    "displayName" : "Avian Jump Boost",
+    "displayIcon" : "/items/augments/back/jumpaugment.png",
+    "effects" : [ "lore_avianjumpboost" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

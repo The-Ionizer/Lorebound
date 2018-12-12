@@ -1,0 +1,22 @@
+{
+  "itemName" : "lore_hylotlaugment",
+  "price" : 20000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "speedaugment.png",
+  "description" : "A Hylotl EPP module that boosts your movement speed on land and in water.",
+  "shortdescription" : "Hylotl Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lore_hylotlboost",
+    "displayName" : "Hylotl Speed Boost",
+    "displayIcon" : "/items/augments/back/speedaugment.png",
+    "effects" : [ "runboostaugment", "swimboost" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

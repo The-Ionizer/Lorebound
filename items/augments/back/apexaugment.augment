@@ -1,0 +1,22 @@
+{
+  "itemName" : "lore_apexaugment",
+  "price" : 20000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "damageaugment.png",
+  "description" : "An EPP module for the Apex that significantly boost their damage output.",
+  "shortdescription" : "Apex augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lore_apexrage",
+    "displayName" : "Apex Damage Boost",
+    "displayIcon" : "/items/augments/back/damageaugment.png",
+    "effects" : [ "lore_apexrage" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

@@ -1,0 +1,22 @@
+{
+  "itemName" : "lore_humanaugment",
+  "price" : 20000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "healthaugment.png",
+  "description" : "A Human EPP module that significantly increases vitality.",
+  "shortdescription" : "Human Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lore_humanhealth",
+    "displayName" : "Human Health Boost",
+    "displayIcon" : "/items/augments/back/healthaugment.png",
+    "effects" : [ "lore_humanvitality" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}

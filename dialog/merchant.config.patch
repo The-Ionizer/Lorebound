@@ -1,0 +1,63 @@
+[
+{
+"op": "add",
+"path": "/merchantStart/silurian",
+"value": {
+"default": [
+"Welcome to my store.",
+"How may I help you?",
+"Welcome welcome welcome."
+]
+}
+},
+{
+"op": "add",
+"path": "/merchantEnd/silurian",
+"value": {
+"default": [
+"See you next time!",
+"Please come back soon",
+"Your pixels are always good here.",
+"Pleasure doing business with you!",
+"It was a pleasure having you here.",
+"Great to see you!",
+"Let's do business again."
+]
+}
+},
+{
+"op": "add",
+"path": "/follow/silurian",
+"value": {
+"default": [
+"Right this way.",
+"Please follow me.",
+"Come with me."
+]
+}
+},
+{
+"op": "add",
+"path": "/welcome/silurian",
+"value": {
+"default": [
+"Welcome!",
+"Let's talk business.",
+"Now that we are here, how can I help you?"
+]
+}
+},
+{
+"op": "add",
+"path": "/tout/silurian",
+"value": {
+"default" : [
+"Goods for sale!",
+"Hey you, come check out my amazing wares!",
+"Best deals around!",
+"Cheap buys!"
+]
+
+}
+}
+]

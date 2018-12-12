@@ -1,0 +1,36 @@
+{
+  "itemName" : "lore_siluriansword2",
+  "price" : 500,
+  "maxStack" : 1,
+  "rarity" : "Uncommon",
+  "description" : "A simple sword form the Silurians!",
+  "shortdescription" : "Silurian Sword",
+  "tooltipKind" : "sword",
+  "category" : "broadsword",
+  "twoHanded" : true,
+  "itemTags" : ["weapon","melee","broadsword"],
+
+  "inventoryIcon" : "lore_siluriansword2.png",
+
+  "animation" : "/items/active/weapons/melee/broadsword/combobroadsword.animation",
+  "animationParts" : {
+    "handle" : "",
+    "blade" : "lore_siluriansword2.png"
+  },
+  "animationCustom" : { },
+
+  "scripts" : ["/items/active/weapons/melee/meleeweapon.lua"],
+
+  "elementalType" : "physical",
+
+  "primaryAbilityType" : "broadswordcombo",
+  "primaryAbility" : {
+    "fireTime" : 0.95,
+    "baseDps" : 12
+  },
+
+  "altAbilityType" : "parry",
+
+  "builder" : "/items/buildscripts/buildunrandweapon.lua",
+    "learnBlueprintsOnPickup" : [ "lore_siluriansword3", "lore_siluriansword" ]
+}

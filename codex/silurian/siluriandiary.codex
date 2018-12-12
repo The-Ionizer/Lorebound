@@ -1,0 +1,13 @@
+{
+	"id" : "siluriandiary",
+	"title" : "Survivors Log",
+	"description" : "Not completed",
+	"icon" : "siluriancover1.png",
+	"contentPages" : [
+    "We have been robbed, robbed of our home. Earth. The humans, the primitive apes have stolen it. We where there first."
+	],
+		"itemConfig" : {
+		"rarity" : "common",
+		"price" : 25
+	}
+}

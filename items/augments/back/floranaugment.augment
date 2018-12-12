@@ -1,0 +1,22 @@
+{
+  "itemName" : "lore_floranaugment",
+  "price" : 20000,
+  "rarity" : "Legendary",
+  "tooltipKind" : "eppaugment",
+  "category" : "eppAugment",
+  "inventoryIcon" : "healingaugment.png",
+  "description" : "An EPP module that help Floran regrowth very fast.",
+  "shortdescription" : "Floran Regrowth Augment",
+
+  "augment" : {
+    "type" : "back",
+    "name" : "lore_floranregen",
+    "displayName" : "Floran Regeneration",
+    "displayIcon" : "/items/augments/back/healingaugment.png",
+    "effects" : [ "lore_floranregeneration" ]
+  },
+
+  "radioMessagesOnPickup" : [ "pickupaugment" ],
+
+  "scripts" : [ "/scripts/augments/augment.lua" ]
+}
